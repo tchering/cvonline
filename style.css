@@ -138,19 +138,20 @@ li {
   line-height: 1.5;
 }
 .my-background {
-  grid-area: 1/3/1/7;
+  grid-area: 1/2/1/6;
   align-self: center;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
 }
 
 .skills {
-  grid-area: 1/8/1/9;
+  grid-area: 1/7/1/9;
   align-self: center;
 }
+
 .atouts{
-  grid-area: 1/10/1/13;
+  grid-area: 1/9/1/13;
   align-self:center;
-  margin-top: 7rem;
+  margin-top: 3rem;
 }
 
 /* !This is for experience section */
