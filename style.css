@@ -270,7 +270,7 @@ li {
   grid-template-rows: repeat(5,1fr);
   background-color: rgb(86,85,148);
   /* background-color: white; */
-  height: 40vh;
+  height: 30vh;
 }
 .footer-container .footer-name h1{
   color: white;
